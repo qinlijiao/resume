@@ -43,7 +43,7 @@
 
 
 ### 其他项目
-个人简历项目 - [https://github.com/qinlijiao/resume](https://github.com/qinlijiao/resume/edit/master/README.md) 
+个人简历项目 - [https://github.com/qinlijiao/resume](https://github.com/qinlijiao/resume/README.md) 
 
 ---
 

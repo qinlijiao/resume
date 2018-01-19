@@ -1,7 +1,7 @@
 # 秦丽娇Web前端程序员简历
 
 ---
-![我的照片](./photo.jpg)
+![我的照片]()
 ---
 
 # 联系方式
@@ -17,7 +17,7 @@
  - 秦丽娇/女/1994 
  - 本科/吉林大学计算机系 
  - 工作年限：应届毕业生
- - 微博：[@JobDeer](http://weibo.com/jobdeer) 
+ - 微博：
  - 技术博客：http://qinlijiao.github.io/blog 
  - Github: http://github.com/qinlijiao 
  - 期望职位：Web前端程序员，H5工程师
@@ -71,10 +71,8 @@
 以下均为我熟练使用的技能
 
 - 掌握 html/css，熟悉 html5 和 css3，能够熟练手写 HTML 和 CSS代码；
-- 掌握前端开发工具 webstorm 和 sublime 的基本使用
 - 熟悉 JavaScript，并具有良好的代码规范
 - 熟练使用 Photoshop 工具，能够根据效果图转化成 HTML 页面
-- 了解 W3C 标准，了解部分浏览器兼容性
 - 了解 jQuery 框架
 
 
